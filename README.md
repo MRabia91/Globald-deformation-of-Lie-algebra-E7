@@ -9,3 +9,6 @@ To verify $\psi \cup \psi=0$, we employ a **Python program**, circumventing expl
 - *Singular orbit*: Integrability proven theoretically (see paper).
 - *Luminous/Brilliant orbits*:  Integrability confirmed computationally.
 - *Dark orbits*: Open for future work.
+### Requirements
+- Python 3.8+
+- Libraries: NumPy, SymPy
