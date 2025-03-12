@@ -11,4 +11,4 @@ To verify $\psi \cup \psi=0$, we employ a **Python program**, circumventing expl
 - *Dark orbits*: Open for future work.
 ### Requirements
 - Python 3.8+
-- Libraries: NumPy, SymPy
+- Libraries: NumPy, SymPy, itertools.
