@@ -5,7 +5,7 @@ This repository accompanies the mathematical paper Global deformation of Lie alg
 ### Algorithmic Approach
 To verify $\psi \cup \psi=0$, we employ a **Python program**, circumventing explicit computation of $H^{3}(L,L)$:
 
-- *Singular orbit*: Integrability proven analytically in the paper.
-- Luminous/Brilliant orbits: Integrability proven algorithmically.
-  
-- Dark orbits: Open for future work.
+### Results
+- *Singular orbit*: Integrability proven theoretically (see paper).
+- *Luminous/Brilliant orbits*:  Integrability confirmed computationally.
+- *Dark orbits*: Open for future work.
